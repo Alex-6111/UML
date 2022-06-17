@@ -1,2 +1,2 @@
 # UML
-IT STEP UML info
+IT STEP UML diagram info
