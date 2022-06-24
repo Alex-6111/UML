@@ -1,2 +1,2 @@
 # UML
-IT STEP UML patterns info
+IT STEP UML exam info
